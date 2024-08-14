@@ -1,0 +1,16 @@
+# Hardhat / Truffle artifacts
+/artifacts
+/cache
+/node_modules
+
+# Build directories
+/build
+
+# Compiled smart contracts
+*.sol.js
+
+# Hardhat specific
+hardhat-deploy
+
+# Local environment files
+.env
